@@ -8,6 +8,7 @@ Mako is a low-pause, high-throughput garbage collector designed for memory-disag
 This project is done in collaboration with Professor [Harry Xu](http://web.cs.ucla.edu/~harryxu/)'s group at UCLA. Please visit [Mako project at UCLA Systems](https://github.com/uclasystem/Mako). If you encounter any problems, please open an issue or feel free to contact us:
 
 [Haoran Ma](http://www.haoranma.info/): PhD student, [haoranma@ucla.edu](mailto:haoranma@ucla.edu).
+
 Shi Liu: PhD student, [shiliu@g.ucla.edu ](mailto:shiliu@g.ucla.edu );
 
 ## How to cite 
